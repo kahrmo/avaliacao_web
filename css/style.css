@@ -23,4 +23,6 @@ main{
     background-color: rgb(98, 43, 43);
     color: white;
     border-radius: 3px;
+    padding: 1em;
+    width: 10em;
 }

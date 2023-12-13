@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (quote) {
             
             const cardDiv = document.createElement('div');
-            cardDiv.className = 'card col-md-3 m-2';
+            cardDiv.className = 'card col-md-3 m-3';
             cardDiv.style.width = '18rem';
             cardDiv.style.height = '16rem';
             
